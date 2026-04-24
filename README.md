@@ -9,20 +9,20 @@
   **Fullstack Engineer | AI/ML Engineer | Smart Contract Security Researcher**
 
   Building intelligent systems by day, scoring goals by night ⚽
-
+<!--  
   <a href="https://www.linkedin.com/in/anthony-okeh-292455236">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> -->
   <a href="https://x.com/Okeha1810">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="https://www.instagram.com/okeh.a/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+<!--
   <a href="https://anthonyokeh.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
-
+</a> -->
   <br/>
   
   <img src="https://komarev.com/ghpvc/?username=Okeha&style=flat-square&color=blueviolet" alt="Profile Views"/>
@@ -188,23 +188,13 @@ My name is Anah Emmanuel and I'm a **Full Stack Developer** transitioning **AI/M
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Okeha/Okeha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Okeha/Okeha/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Okeha/Okeha/output/github-snake.svg" />
-</picture>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect!
 
-**Open to collaborations on AI/ML projects, especially in accessibility tech!**
+**Open to collaborations on web and AI/ML projects!**
 
-📫 Reach me at **okehanthony1234@gmail.com**
+📫 Reach me at **emmanuel.anah01@gmail.com**
 
 <br/>
 
