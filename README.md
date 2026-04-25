@@ -19,10 +19,10 @@
   <a href="https://www.instagram.com/emartu40/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-<!--
-  <a href="https://anthonyokeh.com/">
+
+  <a href="https://0xanah.netlify.app/#/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-</a> -->
+  </a>
   <br/>
   
   <img src="https://komarev.com/ghpvc/?username=Okeha&style=flat-square&color=blueviolet" alt="Profile Views"/>
